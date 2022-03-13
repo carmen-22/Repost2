@@ -2,3 +2,4 @@ agregando texto para ramaverde
 #esto es un comentario en la linea2 #ajustando 
 
 linea nueva, editada en el local y envaida al remoto
+linea editada en el  remoto para visualizarse en el local
